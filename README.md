@@ -1,5 +1,4 @@
 # TrackML
-
 # Corey Kownacki  
 
 # In particle accelerators, collisions produce billions of particles that are then observed by detectors at various locations.
