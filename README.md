@@ -1,5 +1,4 @@
-# TrackML
-Corey Kownacki  
+# TrackML - CK
 
 In particle accelerators, collisions produce billions of particles that are then observed by detectors at various locations.
 We're interested in probing those intermediate states, but they quickly decay away into myriad stable byproducts.  The only way to 
